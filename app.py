@@ -4,6 +4,7 @@ Nick DeMaestri
 CS-391
 
 Ollama Summarizer
+Script based on code from: https://github.com/gnolankettering/lecture13/blob/main/offline/app.py
 '''
 
 import requests
